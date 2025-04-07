@@ -59,10 +59,10 @@ function App() {
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24">
           <div className="text-center">
             <h1 className="text-5xl font-bold text-[#1a2b4b] mb-6">
-              Offer Duty Advancement Without the Risk
+             Differentiate Your Customs Brokerage with Risk‑Free Duty Advances
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-8">
-              Importers are feeling the crunch from rising tariffs. With DutyEase, they can defer duties while you grow revenue—all without tying up your own capital.
+            Tariffs keep climbing — and your clients need breathing room. With DutyEase, you front duties on their behalf, unlock immediate cash flow, and earn a new revenue stream — without touching your working capital. 
             </p>
             <button className="bg-[#ff6b2b] text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-[#e55a1a] transition-colors inline-flex items-center">
               Book a Discovery Call
@@ -80,29 +80,29 @@ function App() {
               <div className="bg-[#1a2b4b]/5 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-6">
                 <Users className="h-8 w-8 text-[#1a2b4b]" />
               </div>
-              <h3 className="text-xl font-semibold text-[#1a2b4b] mb-4">Attract New Clients</h3>
-              <p className="text-gray-600">Make your brokerage more competitive by offering a seamless deferred-duty solution.</p>
+              <h3 className="text-xl font-semibold text-[#1a2b4b] mb-4">Win More Shipper Accounts</h3>
+              <p className="text-gray-600">Stand out in RFPs by bundling duty advances—so importers pick you over the competition.</p>
             </div>
             <div className="text-center">
               <div className="bg-[#1a2b4b]/5 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-6">
                 <DollarSign className="h-8 w-8 text-[#1a2b4b]" />
               </div>
-              <h3 className="text-xl font-semibold text-[#1a2b4b] mb-4">Alleviate Tariff Pressure</h3>
-              <p className="text-gray-600">Help importers navigate the financial strain of rising duties with flexible payment terms.</p>
+              <h3 className="text-xl font-semibold text-[#1a2b4b] mb-4">Reduce Tariff Pressure</h3>
+              <p className="text-gray-600">Turn volatile duties into predictable payments, so your clients can plan cash flow with confidence.</p>
             </div>
             <div className="text-center">
               <div className="bg-[#1a2b4b]/5 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-6">
                 <TrendingUp className="h-8 w-8 text-[#1a2b4b]" />
               </div>
-              <h3 className="text-xl font-semibold text-[#1a2b4b] mb-4">Free Up Your Balance Sheet</h3>
-              <p className="text-gray-600">Eliminate the burden of fronting duty payments and reduce your risk exposure.</p>
+              <h3 className="text-xl font-semibold text-[#1a2b4b] mb-4">Preserve Your Working Capital</h3>
+              <p className="text-gray-600">We cover duty payments; you keep your balance sheet lean and your credit lines intact.</p>
             </div>
             <div className="text-center">
               <div className="bg-[#1a2b4b]/5 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-6">
                 <Clock className="h-8 w-8 text-[#1a2b4b]" />
               </div>
-              <h3 className="text-xl font-semibold text-[#1a2b4b] mb-4">Enhance Profitability</h3>
-              <p className="text-gray-600">Turn a cost center into a revenue stream without extra overhead.</p>
+              <h3 className="text-xl font-semibold text-[#1a2b4b] mb-4">Unlock a Recurring Revenue Stream</h3>
+              <p className="text-gray-600">Earn fees on every shipment you advance—no additional staff or systems required.</p>
             </div>
           </div>
         </div>
@@ -114,7 +114,7 @@ function App() {
           <h2 className="text-3xl font-bold text-white text-center mb-16">What Our Customers Say</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
             <div className="bg-white rounded-lg p-8 shadow-lg">
-              <p className="text-lg text-gray-600 mb-6">"We used to offer advancement as a favor. Now it's a sustainable revenue stream."</p>
+              <p className="text-lg text-gray-600 mb-6">"DutyEase transformed duty advancement from a courtesy we reluctantly offered to a profit center—adding 15% more margin per load."</p>
               <div className="flex items-center">
                 <img
                   src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=96&h=96&q=80"
@@ -128,7 +128,7 @@ function App() {
               </div>
             </div>
             <div className="bg-white rounded-lg p-8 shadow-lg">
-              <p className="text-lg text-gray-600 mb-6">"Clients stay longer and import more when they don't have to pay duties upfront."</p>
+              <p className="text-lg text-gray-600 mb-6">"Since integrating DutyEase, our client retention jumped 20%. Our customers appreciate more predictable cash flow."</p>
               <div className="flex items-center">
                 <img
                   src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=96&h=96&q=80"
@@ -148,9 +148,16 @@ function App() {
       {/* CTA Section */}
       <div className="bg-gradient-to-r from-[#1a2b4b] to-[#2a3b5b] py-24">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-3xl font-bold text-white mb-6">Ready to Transform Your Brokerage?</h2>
+          <h2 className="text-3xl font-bold text-white mb-6">Ready to Grow Your Brokerage Revenue?</h2>
           <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
-            Join the growing network of brokers who are revolutionizing duty advancement.
+          <div className="flex justify-center">
+          Schedule a 15‑minute call and see how DutyEase can:
+          <ul className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto list-disc list-inside">
+            <li>Advance duties on day one</li>
+            <li>Protect your working capital</li>
+            <li>Deliver a new fee stream on every shipment</li>
+          </ul>
+          </div>
           </p>
           <button className="bg-[#ff6b2b] text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-[#e55a1a] transition-colors inline-flex items-center">
             Book a Discovery Call
